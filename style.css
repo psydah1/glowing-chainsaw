@@ -1,0 +1,28 @@
+div.content
+{	
+	height:150px;
+	width:150px;
+	border:5px solid #000000;
+	float:left;
+	margin:20px;
+	padding:10px ;
+}
+
+div#first
+{
+	background-color:#0000ff;
+}
+
+div#second
+{
+	background-color:#00f0f0;
+}
+
+div#third
+{
+	background-color:#0f0f00;
+}
+div#fourth
+{
+	background-color:#00f0f0;
+}
